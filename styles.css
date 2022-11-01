@@ -9,3 +9,22 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+
+.output {
+	font-size: 48px;
+	margin: 20px;
+	margin-bottom: 40px;
+}
+
+.option {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 18px;
+	margin-bottom: 5px;
+}
+
+.dark {
+	background-color: #282828;
+	color: #FFFFFF;
+}
